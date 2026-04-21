@@ -171,3 +171,11 @@ year of release)
 - Some MovieIDs do not correspond to a movie due to accidental duplicate
 entries and/or test entries
 - Movies are mostly entered by hand, so errors and inconsistencies may exist
+
+AUTHORS:
+
+Chirag Basanth Bellavi
+D Pranav Sai
+Darshan GS
+Deepak B
+Chiranthan BS RAJ
