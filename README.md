@@ -174,8 +174,8 @@ entries and/or test entries
 
 AUTHORS:
 
-Chirag Basanth Bellavi
-D Pranav Sai
-Darshan GS
-Deepak B
-Chiranthan BS RAJ
+-Chirag Basanth Bellavi
+-D Pranav Sai
+-Darshan GS
+-Deepak B
+-Chiranthan BS RAJ
